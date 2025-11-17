@@ -79,7 +79,7 @@ Entry-level experience in:
 
 
 # ⭐ Entry-Level Summary  
-> _“Growing one project at a time. Learning, improving, and writing code with purpose.”_
+> Growing one project at a time. Learning, improving, and writing code with purpose.
 
 
 
